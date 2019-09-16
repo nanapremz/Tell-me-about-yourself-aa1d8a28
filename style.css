@@ -1,0 +1,70 @@
+h1 {
+    color: black;
+    font-size: 40px;
+}
+
+li a {
+	color: blue;
+	font-size: 1.8em;
+}
+
+ul {
+	color: red;
+}
+
+ol li {
+	color: red;
+	font-size: 1.8em;
+}
+
+h2 {
+	color: purple;
+	font-size: 1.2em;
+}
+
+body {
+	background-color: lightblue;
+}
+
+img {
+	width: 300px;
+}
+
+label {
+	font: 1.6rem 'Fira Sans', sans-serif;
+}
+
+input[type='submit'],
+label {
+	border-radius: 30px;
+	width: 80%
+	margin: .8rem 0;
+}
+
+h3 {
+	font-size: 50px;
+}
+
+label,
+footer {
+	font-family: sans-serif;
+}
+
+label {
+	font-size: 2rem;
+	padding-right: 20px;
+}
+
+select {
+	font-size: .8rem;
+	padding: 2px 7px;
+}
+
+p,
+label {
+	font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+	margin: .4rem;
+}
